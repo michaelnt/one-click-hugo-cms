@@ -79,14 +79,14 @@ pricing:
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
-        - 3 lbs of coffee per month
+        - 1kg of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
+      price: '40'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
-        - 6 lbs of coffee per month
+        - 2 kgs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
@@ -99,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
